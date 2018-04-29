@@ -1,4 +1,4 @@
-let friendData = require('./app/data/friends')
+let friendData = require('../data/friends.json')
 console.log(friendData)
 
 // ===============================================================================
